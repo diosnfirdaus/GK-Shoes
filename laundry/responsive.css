@@ -1,0 +1,12 @@
+@media only screen and (max-width: 1024px) {
+	/*Grid*/
+	.container {width: 80%;}
+	div[class*="col"] {width: 100%;}
+
+	/*Navigasi*/
+	.navigasi {display: none;}
+	.navigasi-responsive {display: block;}
+
+	/*Page*/
+	.text-halaman {margin-top: 0;}
+}
